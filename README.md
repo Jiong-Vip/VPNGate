@@ -20,14 +20,19 @@
 
 <a id="vps"></a>
 
-## 服务商推荐
+## 🤝 赞助商 / 优质服务商推荐
 
-| 商家 | 推荐理由 | 入口 |
-| --- | --- | --- |
-| **Bandwagon** |代理 & 建站推荐：CN2/9929/CMI三网直连 2500 Mbps 高速线路；低延迟、高稳定性，适合直播、带货和长期出海业务。 | [立即查看](https://bandwagonhost.com/aff.php?aff=81790) |
-| **RackNerd** | 综合服务器推荐：4000GB 大流量，价格与配置性价比突出；部署成本低，适合需要长期稳定运行的服务。 | [立即查看](https://my.racknerd.com/aff.php?aff=18708) |
-| **OpenMili** | OpenMili Ai 中转站推荐：GPT-6 Astra & Images 2.0 Pro 美区原价 0.12倍率 不掺假、不降智，接受任何压力测试！| [立即查看](https://openmili.com/) |
-| **JTTI VPS** | 稳定建站服务器推荐：5 Mbps 独享带宽 无限流量 CN2/9929/CMI三网直连，跨境网站访问低延迟，长期稳定API运营。| [立即查看](https://www.jtti.cc/zh/activity/y2026-national-day.html?k=baoweise) |
+> 如果本开源项目对你有帮助，欢迎了解并支持我们的赞助伙伴：
+
+| 商家 | 核心特点与推荐理由 | 入口 |
+| :--- | :--- | :---: |
+| **OpenMili** | **AI 接口中转**：GPT-6 Astra & Images 2.0 Pro 美区原价 0.3 倍率，不掺假、不降智，经受高并发压力测试。 | [🚀 立即体验](https://openmili.com/) |
+| **Bandwagon** | **代理 & 跨境建站**：CN2 GIA / 9929 / CMI 三网直连 2500 Mbps 超大带宽，低延迟高稳定，适合海外业务与直播。 | [🌐 直达链接](https://bandwagonhost.com/aff.php?aff=81790) |
+| **IPFLY** | **全球住宅代理**：9000万+ 真实住宅 IP，适合跨境出海、社媒运营及数据采集，新用户注册享 7 折优惠。 | [🔗 领取优惠](https://console.ipfly.net/register?ad_source=yt_xbjyz) |
+| **RackNerd** | **综合 VPS**：4000GB 大流量、极具性价比，适合长期平稳运行各类后端服务与容器。 | [📦 查看配置](https://my.racknerd.com/aff.php?aff=18708) |
+| **JTTI VPS** | **稳定建站服务器**：5 Mbps 独享带宽无限流量，三网直连低延迟，适合中长线 API 服务及稳定业务运营。 | [⚡ 立即访问](https://www.jtti.cc/zh/activity/y2026-national-day.html?k=baoweise) |
+
+---
 
 AimiliVPN 使用 Python 标准库管理 VPNGate 节点，提供节点获取与检测、连接切换、Web 管理后台，以及共用一个端口的 HTTP、HTTPS 网站代理和 SOCKS5 代理服务。
 
